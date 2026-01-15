@@ -8,4 +8,4 @@ The newer, more modernized versions of this texture pack can be found [here](htt
 ## Previews
 
 <img src="previews/diff-preview.png"></img>
-<img src="previews/2026-01-15_15-54.png.png"></img>
+<img src="previews/2026-01-15_15-54.png"></img>
